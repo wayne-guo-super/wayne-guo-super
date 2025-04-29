@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wayne-guo-super
+- 👋 Hi, I’m Wayne Guo
 - 👀 I’m interested in sleeping
 - 🌱 I’m currently learning deep_sleep
 - 💞️ I’m looking to collaborate on nightmare
